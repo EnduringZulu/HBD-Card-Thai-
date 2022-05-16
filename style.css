@@ -17,10 +17,11 @@ h4{
 
 .card {
     float: center;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
     transition: 0.3s;
     border-radius: 5px; 
     text-align: center;
+    background-color: #bef1c5;
 }
 
 img {
@@ -44,4 +45,7 @@ h5{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+.container{
+    background-color: #bef1c5;
 }
